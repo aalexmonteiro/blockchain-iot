@@ -1,0 +1,12 @@
+{
+    "name": "sample-device",
+    "version": "1.0.0",
+    "description": "Hands-on IoT with Blockchain",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "nodemon": "^1.18.4",
+        "ibmiotf": "~0.2.41"
+    }
+}
